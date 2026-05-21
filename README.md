@@ -1,5 +1,4 @@
 # Ultimate AI Engineer Roadmap 2026 🔥
-### From Zero to Production-Grade AI Systems
 
 **What's inside (17 Phases + Capstone):**
 
